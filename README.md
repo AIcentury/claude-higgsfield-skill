@@ -60,5 +60,32 @@ Built as a Claude Skill, it works fast with minimal questions, keeps identity an
 
   ## 📄 License
 
+
+---
+
+## 📥 How to Download & Install
+
+### Step 1 — Download the skill file
+
+1. At the top of this page, click the file **`Higgsfield.skill`**
+2. 2. On the next page, click the **download icon** (⬇️) in the top right of the file viewer
+   3. 3. Save the file anywhere on your computer — your Downloads folder is fine
+     
+      4. ### Step 2 — Install it in Claude
+     
+      5. 1. Open [claude.ai](https://claude.ai) in your browser and sign in
+         2. 2. Click your **profile icon** in the top right corner
+            3. 3. Select **"Customize Claude"** from the menu
+               4. 4. Click the **"Skills"** tab
+                  5. 5. Click **"Add skill"** (or the **"+"** button)
+                     6. 6. When the file picker opens, select the **`Higgsfield.skill`** file you just downloaded
+                        7. 7. The skill will appear in your skills list — click it to **activate** it
+                          
+                           8. ### Step 3 — Use it
+                          
+                           9. Once activated, start a new conversation and simply describe what you want to create — a character, a scene, a storyboard, or a video. Claude will guide you through the rest.
+                          
+                           10. > **Tip:** You need the [Higgsfield MCP](https://higgsfield.ai/mcp?fpr=3066&fp_sid=mcp) connected for image and video generation to work. Prompts are always free — generation uses Higgsfield credits.
+                               > 
   MIT — free to use, remix, and build on.
   
