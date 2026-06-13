@@ -6,7 +6,7 @@ Turn a single character idea, a reference image, or a rough story into clean, co
 
 Built as a Claude Skill, it works fast with minimal questions, keeps identity and style consistent across every shot, and never spends a credit without showing you the cost first.
 
-🎭 Character Sheets &nbsp;·&nbsp; 🎞️ Storyboards &nbsp;·&nbsp; 🖼️ Production Images &nbsp;·&nbsp; 🎬 AI Video Prompts &nbsp;·&nbsp; 📺 YouTube Thumbnails
+🎭 Character Sheets · 🎞️ Storyboards · 🖼️ Production Images · 🎬 AI Video Prompts · 📺 YouTube Thumbnails
 
 ⚡ From one prompt to one hundred in a single run, delivered as a clean, organized project.
 
@@ -41,51 +41,49 @@ Built as a Claude Skill, it works fast with minimal questions, keeps identity an
 
 ---
 
-## 🛠️ Requirements
-
-- [Claude](https://claude.ai) (Claude.ai or API)
-- - [Higgsfield MCP](https://higgsfield.ai/mcp?fpr=3066&fp_sid=mcp) — connect once, generate forever
- 
-  - ---
-
-  ## 🔗 Community & Links
-
-  | | Link |
-  |---|---|
-  | 🎓 Community | [AI Century Skool](https://www.skool.com/ai-century-6222/about) |
-  | 💬 Discord | [Join the server](https://discord.gg/US6VrUtnDB) |
-  | ⚡ Higgsfield MCP | [Get access](https://higgsfield.ai/mcp?fpr=3066&fp_sid=mcp) |
-
-  ---
-
-  ## 📄 License
-
-
----
-
 ## 📥 How to Download & Install
 
 ### Step 1 — Download the skill file
 
 1. At the top of this page, click the file **`Higgsfield.skill`**
-2. 2. On the next page, click the **download icon** (⬇️) in the top right of the file viewer
-   3. 3. Save the file anywhere on your computer — your Downloads folder is fine
-     
-      4. ### Step 2 — Install it in Claude
-     
-      5. 1. Open [claude.ai](https://claude.ai) in your browser and sign in
-         2. 2. Click your **profile icon** in the top right corner
-            3. 3. Select **"Customize Claude"** from the menu
-               4. 4. Click the **"Skills"** tab
-                  5. 5. Click **"Add skill"** (or the **"+"** button)
-                     6. 6. When the file picker opens, select the **`Higgsfield.skill`** file you just downloaded
-                        7. 7. The skill will appear in your skills list — click it to **activate** it
-                          
-                           8. ### Step 3 — Use it
-                          
-                           9. Once activated, start a new conversation and simply describe what you want to create — a character, a scene, a storyboard, or a video. Claude will guide you through the rest.
-                          
-                           10. > **Tip:** You need the [Higgsfield MCP](https://higgsfield.ai/mcp?fpr=3066&fp_sid=mcp) connected for image and video generation to work. Prompts are always free — generation uses Higgsfield credits.
-                               > 
-  MIT — free to use, remix, and build on.
-  
+2. On the next page, click the **download icon** in the top right of the file viewer
+3. Save the file anywhere on your computer — your Downloads folder is fine
+
+### Step 2 — Install it in Claude
+
+1. Open [claude.ai](https://claude.ai) in your browser and sign in
+2. Click your **profile icon** in the top right corner
+3. Select **"Customize Claude"** from the menu
+4. Click the **"Skills"** tab
+5. Click **"Add skill"** (or the **"+"** button)
+6. When the file picker opens, select the **`Higgsfield.skill`** file you just downloaded
+7. The skill will appear in your skills list — click it to **activate** it
+
+### Step 3 — Use it
+
+Once activated, start a new conversation and simply describe what you want to create — a character, a scene, a storyboard, or a video. Claude will guide you through the rest.
+
+> **Tip:** You need the [Higgsfield MCP](https://higgsfield.ai/mcp?fpr=3066&fp_sid=mcp) connected for image and video generation to work. Prompts are always free — generation uses Higgsfield credits.
+
+---
+
+## 🛠️ Requirements
+
+- [Claude](https://claude.ai) (Claude.ai or API)
+- [Higgsfield MCP](https://higgsfield.ai/mcp?fpr=3066&fp_sid=mcp) — connect once, generate forever
+
+---
+
+## 🔗 Community & Links
+
+| | Link |
+|---|---|
+| 🎓 Community | [AI Century Skool](https://www.skool.com/ai-century-6222/about) |
+| 💬 Discord | [Join the server](https://discord.gg/US6VrUtnDB) |
+| ⚡ Higgsfield MCP | [Get access](https://higgsfield.ai/mcp?fpr=3066&fp_sid=mcp) |
+
+---
+
+## 📄 License
+
+MIT — free to use, remix, and build on.
